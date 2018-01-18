@@ -1,8 +1,8 @@
 {
-  "name": "Telegram Bot",
+  "name": "telegram-bot-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Danybayev Sanzhar",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://bitbucket.org/dsanjar/cockpitbot#readme",
   "dependencies": {
     "mongoose": "^4.13.9",
