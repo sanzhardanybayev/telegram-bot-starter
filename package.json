@@ -1,0 +1,21 @@
+{
+  "name": "Telegram Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/dsanjar/cockpitbot.git"
+  },
+  "keywords": [],
+  "author": "Danybayev Sanzhar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dsanjar/cockpitbot#readme",
+  "dependencies": {
+    "mongoose": "^4.13.9",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
